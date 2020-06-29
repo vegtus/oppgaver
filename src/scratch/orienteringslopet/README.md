@@ -1,6 +1,6 @@
 ---
 title: Lærerveiledning - Orienteringsløpet
-author: 'Thomas Kjeldahl Nilsson og Stein Olav Romslo'
+author: 'Thomas Kjeldahl Nilsson, Stein Olav Romslo, Vegard Tuset'
 level: 2
 language: nb
 ---
@@ -30,17 +30,18 @@ __Tidsbruk__: Dobbelttime eller mer.
 
 ## Kompetansemål {.challenge}
 
-- [ ] __Matematikk, 7. trinn__: beskrive plassering og flytting i rutenett, på
-      kart og i koordinatsystem, med og uten digitale hjelpemidler, og bruke
-      koordinater til å beregne avstander parallelt med aksene i et
-      koordinatsystem
+- [ ] __Matematikk, 3. trinn__: eksperimentere med og forklare plasseringer i
+      koordinatsystemet
 
-- [ ] __Programmering, 10. trinn__: bruke grunnleggende prinsipper i
-      programmering, slik som løkker, tester, variabler, funksjoner og enkel
-      brukerinteraksjon
+- [ ] __Matematikk, 3. trinn__: lage og følge regler og trinnvise instruksjoner
+      i lek og spill knyttet til koordinatsystem
 
-- [ ] __Programmering, 10. trinn__: overføre løsninger til nye problemer ved å
-      generalisere og tilpasse eksisterende programkode og algoritmer.
+- [ ] __Matematikk, 6. trinn__: bruke variabler, løkker, vilkår og funksjoner i
+      programmering til å utforske geometriske figurer og mønster
+
+- [ ] __Programmering, 10. trinn__: analysere problemer, gjøre dem om til
+      delproblemer og gjøre rede for hvordan noen av delproblemene kan løses med
+      programmering
 
 ## Forslag til læringsmål {.challenge}
 
