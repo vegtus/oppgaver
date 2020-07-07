@@ -2,7 +2,7 @@
 title: Lærarrettleiing - Pingvinar på tur
 level: 1
 language: nn
-author: Stein Olav Romslo
+author: Stein Olav Romslo, Vegard Tuset
 ---
 
 
@@ -15,7 +15,7 @@ som beveger seg tilfeldig rundt omkring til å gå tilbake til akvariet i Bergen
 
 ## Oppgåva passar til: {.check}
 
-__Fag__: Programmering.
+__Fag__: Programmering, matematikk.
 
 __Anbefalte trinn__: 3.-10. trinn.
 
@@ -25,9 +25,18 @@ __Tidsbruk__: Dobbelttime eller meir.
 
 ## Kompetansemål {.challenge}
 
-- [ ] __Programmering, 10. trinn__: bruke grunnleggjande prinsipp i
-  programmering, slik som løkker, testar, variablar, funksjonar og enkel
-  brukarinteraksjon
+- [ ] __Matematikk, 3. trinn__: lage og følgje reglar og trinnvise instruksjonar
+      i leik og spel knytt til koordinatsystemet
+
+- [ ] __Matematikk, 5. trinn__: lage og programmere algoritmar med bruk av
+      variablar, vilkår og løkker
+
+- [ ]  __Programmering, 10. trinn__: bruke grunnleggande prinsipp i
+       programmering, slik som variablar, løkker, vilkår og funksjonar, og
+       reflektere over bruken av desse
+
+- [ ] __Programmering, 10. trinn__: planlegge og skape eit digitalt produkt og
+      vurdere dette med tanke på brukervennlighet
 
 ## Forslag til læringsmål {.challenge}
 
