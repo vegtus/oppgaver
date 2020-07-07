@@ -2,7 +2,7 @@
 title: Lærarrettleiing - Lag ditt eige spel
 level: 4
 language: nn
-author: Stein Olav Romslo
+author: Stein Olav Romslo, Vegard Tuset
 ---
 
 
@@ -17,7 +17,7 @@ tidlegare.
 ## Oppgåva passar til: {.check}
 
 __Fag__: Arbeidslivsfag, kunst og handverk, musikk, norsk, programmering,
-teknologi i praksis.
+teknologi i praksis, IT1.
 
 __Anbefalte trinn__: 5.-10. trinn.
 
@@ -27,41 +27,45 @@ __Tidsbruk__: Dobbelttime eller meir.
 
 ## Kompetansemål {.challenge}
 
-- [ ] __Arbeidslivsfag, 10. trinn__: kommunisere og samarbeide med andre i ein
-  arbeidssituasjon
+- [ ] __Arbeidslivsfag, 10. trinn__: vurdere sin eigen og arbeidsinnsatsen i gruppa
+      , arbeidsprosess og resultatet frå arbeidsoppdraget
 
-- [ ] __Kunst og handverk, 4. trinn__: bruke enkle funksjonar i digitale
-  bildehandsamingsprogram
+- [ ] __IT1, VGs__: planlegge og implementere brukargrensesnitt
 
-- [ ] __Kunst og handverk, 7. trinn__: bruke ulike grafiske teknikkar i eiga
-  arbeid
+- [ ] __Kunst og handverk, 7. trinn__: bruke digitale verktøy til å planlegge
+      og presentere prosessar og produkt
 
-- [ ] __Musikk, 7. trinn__: komponere og gjere lydopptak ved hjelp av digitale
-  verktøy
+- [ ] __Kunst og handverk, 10. trinn__: utforske korleis digitale verktøy og ny
+      teknologi kan gi moglegheiter for kommunikasjonsformer og opplevingar i
+      skapande prosessar og produkt
 
-- [ ] __Norsk, 4. trinn__: lage tekstar som kombinerer ord, lyd og bilete, med
-  og utan digitale verktøy
+- [ ] __Matematikk fordypning, 10. trinn__: diskutere, planlegge, lage og
+      vurdere spilldesign og eigne spel
 
-- [ ] __Programmering, 10. trinn__: gjere om problem til konkrete delproblem,
-  vurdere kva delproblem som let seg løyse digitalt, og forme ut løysingar for
-  desse
+- [ ] __Norsk, 4. trinn__: utforske og formidle tekstar gjennom samtale,
+      skriving, leik, rørsle og andre kreative uttrykk
 
-- [ ] __Programmering, 10. trinn__: dokumentere og forklare programkode gjennom
-  å skrive omsynsmessige kommentarar og ved å presentere eigen og andre sin kode
+- [ ] __Programmering, 10. trinn__: omgjere problem til konkrete delproblem,
+      vurdere kva delproblem som lèt seg lause digitalt, og utforme
+      løysingar for desse
 
-- [ ] __Programmering, 10. trinn__: bruke grunnleggjande prinsipp i
-  programmering, slik som løkker, testar, variablar, funksjonar og enkel
-  brukarinteraksjon
+- [ ] __Programmering, 10. trinn__: analysere problem, gjere dei om til
+      delproblem og gjere reie for korleis nokon av delproblema kan løysast med
+      programmering
 
-- [ ] __Programmering, 10. trinn__: overføre løysingar til nye problem ved å
-  generalisere og tilpasse eksisterande programkode og algoritmar.
+- [ ] __Programmering, 10. trinn__: planlegge og skape eit digitalt produkt og
+      vurdere dette med tanke på brukervennlighet
 
-- [ ] __Teknologi i praksis, 10. trinn__: vurdere teknologiske produkt ut frå
-  brukartilpassing, HMS-krav og miljøtilpassing
+- [ ] __Programmering, 10. trinn__: utvikle og feilsøke dataprogram som løyser
+      definerte problem, inkludert kontrollering eller simulering av fysiske
+      objekt
 
-- [ ] __Teknologi i praksis, 10. trinn__: utvikle ein realistisk
-  kravspesifikasjon for eit teknologisk produkt og beskrive kva behov produktet
-  skal dekkje
+- [ ] __Teknologi og design, 10. trinn__: grunngi val av design, materiale,
+      verktøy og framgangsmåtar, og reflektere over kor trygge og berekraftige
+      vala er
+
+- [ ] __Teknologi og design, 10. trinn__: designe og grunngi konsept for
+      teknologiske produkt
 
 ## Forslag til læringsmål {.challenge}
 
