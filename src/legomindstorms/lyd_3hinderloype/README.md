@@ -24,7 +24,7 @@ kontroll på hvor roboten er i forhold til veggene og objektene.
 
 __Anbefalte trinn__: 4.trinn - VG2
 
-__Tema__: Ultralydsensor, Hinderløype,
+__Tema__: Ultralydsensor, Hinderløype
 
 __Tidsbruk__: En dobbeltime
 
