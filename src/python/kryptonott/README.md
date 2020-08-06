@@ -1,6 +1,6 @@
 ---
 title: Lærerveiledning - Kryptonøtt
-author: "Madeleine Lorås & Øistein Søvik"
+author: Madeleine Lorås, Øistein Søvik, Vegard Tuset
 language: nb
 ---
 
@@ -12,7 +12,7 @@ ut av det meste selv.
 
 ## Oppgaven passer til: {.check}
 
-__Fag__: Programmering, Informasjonsteknologi
+__Fag__: Programmering, IT
 
 __Anbefalte trinn__: 8. trinn - VG3
 
@@ -22,31 +22,31 @@ __Tidsbruk__: Dobbelttime eller mer
 
 ## Kompetansemål {.challenge}
 
-- [ ] __Programmering, valgfag__: omgjøre problemer til konkrete delproblemer,
-  vurdere hvilke delproblemer som lar seg løse digitalt, og utforme løsninger
-  for disse.
+- [ ] __Programmering, 10. trinn__: utvikle og feilsøke dataprogram som løser
+  definerte problemer, inkludert kontrollering eller simulering av fysiske
+  objekter
 
-- [ ] __Programmering, valgfag__: bruke flere programmeringsspråk der minst ett
-  er tekstbasert.
+- [ ] __Programmering, 10. trinn__: bruke flere programmeringsspråk, deriblant
+   minst ett som er tekstbasert
 
-- [ ] __Programmering, valgfag__: bruke grunnleggende prinsipper i
-  programmering, slik som løkker, tester, variabler, funksjoner og enkel
-  brukerinteraksjon.
+- [ ] __Programmering, 10. trinn__: bruke grunnleggende prinsipper i
+  programmering, slik som variabler, løkker, vilkår og funksjoner, og reflektere
+   over bruken av disse
 
-- [ ] __Programmering, valgfag__: utvikle og feilsøke programmer som løser
-  definerte problemer, inkludert realfaglige problemstillinger og kontrollering
-  eller simulering av fysiske objekter.
+- [ ] __Programmering, 10. trinn__: analysere problemer, gjøre dem om til
+  delproblemer og gjøre rede for hvordan noen av delproblemene kan løses med
+  programmering
 
-- [ ] __Programmering, valgfag__: dokumentere og forklare programkode gjennom å
-  skrive hensiktsmessige kommentarer og ved å presentere egen og andres kode.
+- [ ] __IT1, VG2__: utforske trusler mot datasikkerheten og kjenne til
+  beskyttende tiltak for noen av disse  
 
-- [ ] __Programmering, valgfag__: overføre løsninger til nye problemer ved å
-  generalisere og tilpasse eksisterende programkode og algoritmer.
+- [ ] __IT1, VG2__: lese, strukturere, analysere og kommentere programkode
 
-- [ ] __Informasjonsteknologi 2, VG3__: utvikle og sette sammen delprogrammer.
+- [ ] __IT2, VG3__: generalisere løsninger, lage gjenbrukbar programkode og
+  benytte eksisterende kode i nye programmer.
 
-- [ ] __Informasjonsteknologi 2, VG3__: teste og finne feil i programmer ved å
-  bruke vanlige teknikker.
+- [ ] __IT2, VG3__: beskrive hvordan data kan beskyttes ved hjelp av
+  tilgangskontroll og kryptering
 
 ## Forslag til læringsmål {.challenge}
 
